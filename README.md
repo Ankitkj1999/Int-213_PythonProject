@@ -1,28 +1,6 @@
 # Int-213_PythonProject
 Int 213 College Python Project. Capstone Supervisor Allocation Portal made using python tkinter. 
 
-<!-- Copy and paste the converted output. -->
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 9.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://cdn.freelogovectors.net/wp-content/uploads/2019/02/lpu-logo-lovely_professional_university.png "image_tooltip")
@@ -32,12 +10,8 @@ Int 213 College Python Project. Capstone Supervisor Allocation Portal made using
 
 
     **Lovely Professional University**
-
-
     **Phagwara, Punjab.**
-
-
-    **                                    INT  213**
+    ** INT  213**
 
 **Capstone Supervisor Allocation Portal for LPU Students Using Python**
 
@@ -188,12 +162,10 @@ In this project we have made a **Capstone Supervisor Allocation Portal**, the te
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.jpg "image_tooltip")
 
-
+![alt_text](https://i.ibb.co/M5DSTMj/home.jpg"image_tooltip")
   Fig 1
 
 This is the first window which opens for the students. It hs three buttons the first one is _login _button, when clicked it opens the login window. The second button is the _New User_ button, when this button is clicked it opens a window for the new registrations. The third is the _Request For Supervisor _button, this takes the student to the _login _window and when the student is logged in the student is taken to the form window which needs to be filled to request a supervisor.
@@ -205,7 +177,7 @@ This is the first window which opens for the students. It hs three buttons the f
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.jpg "image_tooltip")
+![alt_text](https://i.ibb.co/892RbM8/login.jpg "image_tooltip")
 
 
 Fig 2
@@ -214,12 +186,7 @@ Now, this is the _login_ window where the student is taking is the _login _butto
 
 **New Student’s Registration**
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](https://i.ibb.co/hK6qshf/regform.jpg "image_tooltip")
 
 
 Fig 3
@@ -231,11 +198,7 @@ This is the window which opens when the student presses the _New User_ button in
 **Request For Supervisor**
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](https://i.ibb.co/dgymfZy/jb.jpg "image_tooltip")
 
 
 Fig 4
@@ -264,10 +227,8 @@ which takes the user to the registration window for a new supervisor.
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image7.jpg "image_tooltip")
+![alt_text](https://i.ibb.co/892RbM8/login.jpg "image_tooltip")
 
 
 Fig 6
@@ -278,10 +239,8 @@ This is the _ Login_ window which opens when a supervisor or user clicks the log
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image8.jpg "image_tooltip")
+![alt_text](https://i.ibb.co/hK6qshf/regform.jpg "image_tooltip")
 
 
 Fig 7
