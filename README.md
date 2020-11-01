@@ -66,15 +66,15 @@ Int 213 College Python Project. Capstone Supervisor Allocation Portal made using
 
 
 
-1.  Title…………………………………………… 1
-2.  Index…………………………………………..  2
-3.  Acknowledgement………………………...…..  3
-4. Summary……………………………………….  4
-5. Tabel Of Figures………………………………..  4
-6.  Introduction…………………………………….  5
-7.  Basic Module Division…………………………  6
-8.  Reference………………………………………  11
-9.  Result…………………………………………..  11
+1.  Titl
+2.  Index
+3.  Acknowledgement
+4. Summary
+5. Tabel Of Figures
+6.  Introduction
+7.  Basic Module Division
+8.  Reference
+9.  Result
 
 [TOC]
 
