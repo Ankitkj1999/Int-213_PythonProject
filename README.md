@@ -166,6 +166,7 @@ In this project we have made a **Capstone Supervisor Allocation Portal**, the te
 
 
 ![alt_text](https://i.ibb.co/M5DSTMj/home.jpg"image_tooltip")
+
   Fig 1
 
 This is the first window which opens for the students. It hs three buttons the first one is _login _button, when clicked it opens the login window. The second button is the _New User_ button, when this button is clicked it opens a window for the new registrations. The third is the _Request For Supervisor _button, this takes the student to the _login _window and when the student is logged in the student is taken to the form window which needs to be filled to request a supervisor.
@@ -173,8 +174,6 @@ This is the first window which opens for the students. It hs three buttons the f
 **Student Login Window**
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://i.ibb.co/892RbM8/login.jpg "image_tooltip")
@@ -211,11 +210,10 @@ So all these four windows concluded the student segment of the project.
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image6.jpg "image_tooltip")
-
+![alt_text](https://i.ibb.co/61SFYPn/slog.jpg "image_tooltip")
+ 
 
 Fig 5
 
@@ -251,10 +249,8 @@ This window is for new Supervisor’s registeration. It opens whenever a user cl
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image9.jpg "image_tooltip")
+![alt_text](https://i.ibb.co/6Xf6GJT/suphome.jpg "image_tooltip")
 
 
 Fig 8
